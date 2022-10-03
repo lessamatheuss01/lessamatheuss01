@@ -39,7 +39,4 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
   
- <div align="center">
-  ![Snake animation](https://github.com/lessamatheuss01/lessamatheuss01/blob/output/github-contribution-grid-snake.svg)
- </div>
 
