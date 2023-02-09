@@ -1,6 +1,6 @@
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lessamatheuss01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessamatheuss01&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eric-viezzer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-viezzer&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##  **Social Medias** :iphone: 
