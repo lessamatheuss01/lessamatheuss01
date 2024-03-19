@@ -1,4 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lessamatheuss01/cd55ec9f48558d127e9da024ef83975a/raw/a554594c519eb6fe2a46af118a1b7a479a9ab950/githubcard.svg"/>
+<br></br>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Lessa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lessamatheuss01&color=yellow" alt="Profile views" /> </p>
 
@@ -32,8 +33,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=lessamatheuss01&show_icons=true&theme=dracula" alt="lessamatheuss01's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessamatheuss01&layout=compact&theme=dracula" alt="lessamatheuss01's most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=lessamatheuss01&show_icons=true&theme=dracula" alt="lessamatheuss01's stats"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessamatheuss01&layout=compact&theme=dracula" alt="lessamatheuss01's most languages"/>
 </p>
 
 <br><br>
