@@ -2,11 +2,11 @@
 <br></br>
 
 <section align="left">
-  Olá! Me chamo Matheus de Lima Lessa e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimneto e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
+  Olá! Me chamo Matheus de Lima Lessa e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
  
  - :nerd_face: Atualmente estou curanso Analise e Desenvolvimneto de Sistemas na **SPTech**
  - :desktop_computer: Atualmente aprofundando meus conhecimentos em **C#** | **PYTHON** | **DEVOPS**
- - :open_book: **Inglês** interdiário | **Espanhol** básico | **Português** nativo
+ - :open_book: **Inglês** intermediário | **Espanhol** básico | **Português** nativo
  - ✉️ Entre em contato: **matheuslimalessa22@gmail.com**
  
  <a href="https://www.linkedin.com/in/matheuslessa22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
