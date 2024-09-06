@@ -4,7 +4,7 @@
 <section align="left">
   Olá! Me chamo Matheus de Lima Lessa e sou desenvolvedor Web Back-end junior, me especializo na parte de desenvolvimento e visual de sites. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia.<br> <br>
  
- - :nerd_face: Atualmente estou curanso Analise e Desenvolvimneto de Sistemas na **SPTech**
+ - :nerd_face: Atualmente estou graduado Analise e Desenvolvimneto de Sistemas na **SPTech**
  - :desktop_computer: Atualmente aprofundando meus conhecimentos em **C#** | **PYTHON** | **DEVOPS**
  - :open_book: **Inglês** intermediário | **Espanhol** básico | **Português** nativo
  - ✉️ Entre em contato: **matheuslimalessa22@gmail.com**
